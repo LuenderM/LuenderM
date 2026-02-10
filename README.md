@@ -25,13 +25,14 @@ Meu objetivo é conquistar minha **primeira vaga como Backend Java Júnior**, en
 - JPA / Hibernate
 - Flyway (migrations)
 - Maven
+- RabbitMQ
 
 **Banco de Dados**
 - MySQL
-- PostgreSQL (Supabase)
+- PostgreSQL
 
 **Infra & Cloud**
-- Docker (em estudo)
+- Docker
 - Railway
 - Vercel
 - Git & GitHub
